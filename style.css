@@ -7,11 +7,27 @@ html {
 }
 
 body {
-	background-color: black;
+	/*background-color: black;*/
 }
 
 h1 {
 	font-size: 1em;
 	font-family: Courier;
     color: white;
+}
+
+#logoCircle {
+	width:  500px;
+	height: 500px;
+	background-color: black;
+	border-radius: 250px; 
+	margin: auto;
+	margin-top: 200px;
+}
+
+#logo {
+	width: 400px;
+	margin: 50px;
+	margin-top:    220px;
+	margin-bottom: 220px;
 }
