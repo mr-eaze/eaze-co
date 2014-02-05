@@ -1,0 +1,17 @@
+
+* { box-sizing: border-box }
+
+html {
+    font-size: 100px;
+    letter-spacing: .5px;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-size: 1em;
+	font-family: Courier;
+    color: white;
+}
